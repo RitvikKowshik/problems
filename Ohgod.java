@@ -6,10 +6,10 @@ public class Ohgod{
         System.out.println("1.Palindrome");
         System.out.println("2.Armstrong");
         System.out.println("3.Automorphic");
-        System.out.println("Enter a number:");
-        int n=sc.nextInt();
         System.out.println("Enter the choice:");
         ch=sc.nextInt();
+        System.out.println("Enter a number:");
+        int n=sc.nextInt();
         switch(ch)
         {
             case 1:
