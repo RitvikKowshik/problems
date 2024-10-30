@@ -7,6 +7,6 @@ public class Money {
         System.out.println("Enter INR to convert into USD:");
         inr=n.nextInt();
         usd=inr/83.33;
-        System.out.println("Rupees="+inr+" is US Dollar="+usd);
+        System.out.println("Rupees="+inr+"is US Dollar="+usd);
     }
 }
